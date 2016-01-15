@@ -1,0 +1,11 @@
+c Lista de pontos tabelados entre [0.0, 4.0]
+x 0.0 1.0 2.0 3.0 4.0
+y 0.0 0.693 1.1 1.387 1.61
+c Intervalo da integral definida em [0,4]
+a 0
+b 4
+c Lista de pontos a interpolar
+i 3
+p 1.5 2.5 3.5
+c Computar integral com 30 trapezios
+t 30
