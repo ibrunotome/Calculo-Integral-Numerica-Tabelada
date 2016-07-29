@@ -16,4 +16,4 @@ Abra o Terminal e digite:
 - ./trapezium.bin <ARQUIVO ENTRADA.txt> <ARQUIVO SAIDA.r>
 - Rscript <ARQUIVO SAIDA.r>
 
-No windows, você pode rodar via netbeans ou se tiver um terminal batch basta seguir os comandos acima.
+No windows, você pode rodar via netbeans ou se tiver um terminal basta seguir os comandos acima.
